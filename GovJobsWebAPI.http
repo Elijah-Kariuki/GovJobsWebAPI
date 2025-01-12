@@ -1,0 +1,6 @@
+@GovJobsWebAPI_HostAddress = http://localhost:5044
+
+GET {{GovJobsWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
